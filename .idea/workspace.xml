@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41cfa38f-9761-41f6-bd9b-5adc39f4766d" name="Changes" comment="Modificacion ejercicio 01">
-      <change beforePath="$PROJECT_DIR$/Ejemploo2.py" beforeDir="false" />
+    <list default="true" id="41cfa38f-9761-41f6-bd9b-5adc39f4766d" name="Changes" comment="Modificacion ejercicio 02">
+      <change afterPath="$PROJECT_DIR$/Ejemploo2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Ejemploo1.executor": "Run",
+    "Python.Ejemploo2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "refactorizar__ej02",
@@ -112,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725911619343</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Modificacion ejercicio 02">
+      <option name="closed" value="true" />
+      <created>1725912581952</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725912581952</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,7 +139,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Linea base del proyecto" />
     <MESSAGE value="Modificacion ejercicio 01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modificacion ejercicio 01" />
+    <MESSAGE value="Modificacion ejercicio 02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modificacion ejercicio 02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
